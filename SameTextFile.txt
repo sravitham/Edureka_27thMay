@@ -1,3 +1,1 @@
-
-
-Deleted the content
+Fetching the data on a daily basis
